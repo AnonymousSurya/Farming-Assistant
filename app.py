@@ -5,6 +5,7 @@ import pandas as pd
 from utils.fertilizer import fertilizer_dict
 import os
 import cv2
+from keras.preprocessing import image
 from PIL import Image
 import numpy as np
 import tensorflow as tf
