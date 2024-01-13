@@ -42,5 +42,7 @@ zipp
 matplotlib
 streamlit
 streamlit-option-menu==0.3.6
+PyOpenGL 
+PyOpenGL_accelerate
 opencv-python
 
