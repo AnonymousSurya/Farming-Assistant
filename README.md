@@ -51,6 +51,7 @@
 
 ## Conclusion
 India’s farmers are hard at work. They help to feed a nation whose population is nearly 1.4 billion. However their productivity is threatened by some natural factors that can ruin their crops and their livelihoods. So, the solution will benefit farmers to maximize productivity in agriculture, reduce soil degradation in cultivated fields, and have informed advice on organic fertilizers/ other fertilizers and also know about the right crop by considering various attributes. This would provide a comprehensive prediction and hence benefit both farmers and environment. Not only this, but pest prediction would also be major issue to be solved via this project so that one can act accordingly.
+___
 
 ## How to run on your local host?
 1. Download this repo
@@ -58,3 +59,26 @@ India’s farmers are hard at work. They help to feed a nation whose population 
 3. Activate environment using command --> conda activate env_name
 4. Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
 5. Now run app.py by writing command --> streamlit run app.py
+
+___
+## Snapshot of the Web App:
+
+### Crop Recommendation functionality ->
+![Screenshot (164)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/c1acb1e4-5c1e-413b-bfad-7e88a6fd299c)
+
+![Screenshot (165)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/0b437631-22c4-4eca-9307-4aa28031f22a)
+
+### Fertilizer Recommendation functionality ->
+
+![Screenshot (166)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/07632d8c-2049-41cb-ace2-bc55b894a9dd)
+
+![Screenshot (167)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/c672e9e0-2fd9-4297-9ae4-6d57f1c1748b)
+
+
+![Screenshot (168)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/621d5ecf-7788-48f1-b91d-3be20ca6e279)
+
+### Pest Prediction functionality ->
+
+
+![Screenshot (169)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/c8cd7020-a978-4fa8-9eee-8124f3bd3759)
+![Screenshot (170)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/7f44c694-ea41-48b6-88e1-76296115db17)
