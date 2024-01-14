@@ -67,6 +67,7 @@ ___
 ![Screenshot (164)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/c1acb1e4-5c1e-413b-bfad-7e88a6fd299c)
 
 ![Screenshot (165)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/0b437631-22c4-4eca-9307-4aa28031f22a)
+___
 
 ### Fertilizer Recommendation functionality ->
 
@@ -76,7 +77,7 @@ ___
 
 
 ![Screenshot (168)](https://github.com/AnonymousSurya/Farming-Assistant/assets/76435009/621d5ecf-7788-48f1-b91d-3be20ca6e279)
-
+___
 ### Pest Prediction functionality ->
 
 
